@@ -8,4 +8,4 @@ Converting a binary black-and-white mask of a parking lot into a GIS-compatible 
 ### 2. Drone to Map
 Converting a georeferenced aerial image to GeoTIFF format, enabling it to be overlaid onto a map as a layer. 
 
-<img src="media/drone_to_map/drones.jpg" alt="drones" style="width: 22.9%;"><img src="media/drone_to_map/demo.png" alt="demo" style="width: 75.1%;"> 
+<img src="media/drone_to_map/drones.jpg" alt="drones" style="width: 21.9%;">    <img src="media/drone_to_map/demo.png" alt="demo" style="width: 74.1%;"> 
