@@ -7,4 +7,5 @@ Converting a binary black-and-white mask of a parking lot into a GIS-compatible 
 
 ### 2. Drone to Map
 Converting a georeferenced image into the GeoTIFF format, enabling precise alignment with geographical features and enhancing its usability for spatial analysis and visualization.
+
 <img src="media/drone_to_map/drones.jpg" alt="drones" style="width: 22%;"> <img src="media/drone_to_map/demo.png" alt="demo" style="width: 75%;"> 
